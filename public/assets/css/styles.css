@@ -1,0 +1,38 @@
+table,form{
+    background-color: #ffffff
+    box-shadow= 0px,0px,5px #cccccc
+}
+#dataForm{
+    padding: 15px;
+    overflow: hidden;
+    background-color: #941c6c
+    box-shadow 0 0x 10px rgba(0,0,0,0.125);
+    
+}
+
+#img-holder{
+	background: url(bg.jpg)
+}
+#deleteForm{
+    display:inline-block;
+}
+.alert-custom{
+    float: right;
+    border:1px solid green;
+    border-radius: 4px;
+    background: color #dff0d8;
+    color: #3c763d;
+    padding: 6px 10px;
+
+}
+.dropdown-menu { right: 0; left: auto; }
+
+.alert-custom p{
+    margin: 0;
+}
+.alert-custom p span{
+    font-weight: bold;
+}
+hr{
+    border-top:1px solid #dddddd;
+}
